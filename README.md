@@ -68,7 +68,7 @@ The system operates in the following stages:
 ---
 
 ## Project Workflow
-Raw Images
+Raw Images\
 ↓
 Metadata Generation (CSV)
 ↓
