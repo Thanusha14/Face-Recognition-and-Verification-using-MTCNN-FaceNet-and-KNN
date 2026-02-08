@@ -69,18 +69,18 @@ The system operates in the following stages:
 
 ## Project Workflow
 Raw Images\
-↓
-Metadata Generation (CSV)
-↓
-Face Detection (MTCNN)
-↓
-Cropped Faces
-↓
-FaceNet Embeddings
-↓
-KNN Classification
-↓
-Cosine Similarity Verification
+↓\
+Metadata Generation (CSV)\
+↓\
+Face Detection (MTCNN)\
+↓\
+Cropped Faces\
+↓\
+FaceNet Embeddings\
+↓\
+KNN Classification\
+↓\
+Cosine Similarity Verification\
 
 
 ---
